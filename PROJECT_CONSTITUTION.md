@@ -13,9 +13,16 @@
 - 重大决定统一记录到 `DECISIONS.md`。
 - 所有 AI 协作者必须先阅读 `BOOK_CONTEXT.md`、`PROJECT_CONSTITUTION.md`、`WRITING_RULES.md`、`STYLE_GUIDE.md`。
 
+## Rule 008
+
+Editorial Review 不直接修改正文。
+
+所有编辑建议统一进入 `EDITORIAL_NOTES.md`。
+
+每完成一个 Part 后统一 Refactor。
+
 ## 执行要求
 
 - 修改章节前，先确认章节编号和位置。
 - 修改规则类文件前，先判断是否影响既有章节结构。
 - 如发现目录、章节顺序或写作规则之间存在冲突，优先维护本文件规定。
-

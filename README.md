@@ -21,6 +21,22 @@
 - 重大决定记录到 `DECISIONS.md`。
 - 所有 AI 协作者必须先阅读项目上下文和写作规则。
 
+## Book Workflow
+
+```text
+Draft
+    ↓
+Technical Review
+    ↓
+Editorial Review
+    ↓
+Editorial Refactor
+    ↓
+Freeze
+    ↓
+Release
+```
+
 ## 目录结构
 
 正文位于 `chapters/`，按五个部分组织。模板、示例和图片分别放入 `templates/`、`examples/`、`images/`。
@@ -34,4 +50,3 @@
 3. `WRITING_RULES.md`
 4. `STYLE_GUIDE.md`
 5. `AGENTS.md`
-

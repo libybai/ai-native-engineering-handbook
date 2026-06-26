@@ -12,6 +12,16 @@
 
 - 完成 AI Native 工作流的必要性与核心原则。
 
+### Editorial Refactor
+
+- 汇总 `EDITORIAL_NOTES.md` 中的编辑建议。
+- 对已完成 Part 统一进行表达、结构和一致性重构。
+
+### Freeze
+
+- 完成编辑重构后冻结对应 Part。
+- 冻结后仅接受明确要求的修正。
+
 ### M3 完成第二部分
 
 - 完成 Workspace、Repository、文档体系、Git 和 Design System 标准。
@@ -35,4 +45,3 @@
 ### M8 v1.0 发布
 
 - 完成全书审校、结构校验和发布准备。
-
