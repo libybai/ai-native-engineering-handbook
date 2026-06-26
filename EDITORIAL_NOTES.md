@@ -24,7 +24,12 @@
 
 ### Chapter 04
 
-暂无。
+Editorial Review 已通过。
+
+轻微建议：
+
+- 后续 Part 2 统一 Editorial Refactor 时，检查第 04 章与第 03 章之间的术语衔接。
+- 后续 Part 2 统一 Editorial Refactor 时，检查 `Repository`、`Workspace`、`Runtime` 三个概念在全书中的表达一致性。
 
 ### Chapter 05
 
@@ -97,4 +102,3 @@
 ### Chapter 22
 
 暂无。
-
